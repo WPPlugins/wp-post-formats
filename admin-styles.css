@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+.wppf_options_box .inside{
+	padding:10px;	
+}
+
+.wppf_options_box .inside input{
+	margin-right:10px;	
+}
